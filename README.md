@@ -17,5 +17,5 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team.
 
-Páginas importantes para configurar git y c9:
+Useful links to help configure git on c9:
 http://lepidllama.net/blog/how-to-push-an-existing-cloud9-project-to-github/
